@@ -1,5 +1,7 @@
 # Circular-Education-System
-Circular Education System @ DTU Construct
+Circular Education System @ DTU Construct.
+
+Check out theoverview in [this paper](https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC)
 
 Includes:
 - [Advanced Building Design](https://github.com/timmcginley/41936)
