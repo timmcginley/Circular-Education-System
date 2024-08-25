@@ -14,26 +14,39 @@ The following is a list of tools that have been developed so far in the Advanced
 
 ### Indoor, energy and daylight
 
-* [22 Group 06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
-* [22 Group 18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
-* [22 Group 22](https://github.com/s183578/41934-Advanced-BIM-Group-22) - Indoor Climate
-* [22 Group 23](https://github.com/Enzuesta/41934-Advanced-BIM-Group23) - Daylight
+* [22 G06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
+* [22 G18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
+* [22 G22](https://github.com/s183578/41934-Advanced-BIM-Group-22) - Indoor Climate
+* [22 G23](https://github.com/Enzuesta/41934-Advanced-BIM-Group23) - Daylight
 
 ### Structures
-* [22 Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
-* [22 Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
-* [22 Group 20](https://github.com/Hajarb11/BIM--Group20) - Structural
-* [22 Group 21](https://github.com/loicsan272/Advenced-BIM2022-G21) - Structural
+* [22 G09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
+* [22 G10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
+* [22 G20](https://github.com/Hajarb11/BIM--Group20) - Structural
+* [22 G21](https://github.com/loicsan272/Advenced-BIM2022-G21) - Structural
+  
+* [23 G10](https://github.com/Ma-th1ago/41934-Advanced-BIM/tree/main/Assignment%203) - Structural
+* [23 G15](https://github.com/frejahbarkler/41934_GR15_A3/tree/main) - Calculate self weight
 
-### Sustainability / LCA
-* [22 Group 03](https://github.com/WilliamEskildsen/41934_group3) - LCA
-* [22 Group 04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
+### Materials / Sustainability / LCA
+* [22 G03](https://github.com/WilliamEskildsen/41934_group3) - LCA
+* [22 G04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
+  
+* [23 G03](https://github.com/KateGayler/A3) - Improving IEQ
+* [23 G08](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-) -LCA
+* [23 G14](https://github.com/s203726/A3-A5_AdvancedBIM_group14) - Add Materials and layers to wall types in IFC4
+* [23 G19](https://github.com/nannadl/Avanced-BIM_Group-19/tree/main/Assignment%203_Group%2019) - Add trees to an IFC to support daylight analysis
+* [23 G26](https://github.com/Ahmetondertektas/AdvancedBIM-Group26) - LCA
 
-### Construction
-* [22 Group 01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
-* [22 Group 02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
-* [22 Group 11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
-* [22 Group 19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
+### Cost
+* [22 G01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
+* [22 G02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
+* [22 G11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
+* [22 G19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
 
+* [23 G11](https://github.com/kristianedstrom/Group-11/blob/main/Assignments/A3/Remodel.py) - cost
+
+## Management
+* [23 G05](https://github.com/StanimirMihaylovAngelov/Advanced_BIM/blob/main/A3/README.md) - BIM Execution Plan
 
 
