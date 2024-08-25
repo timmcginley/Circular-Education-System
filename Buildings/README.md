@@ -2,9 +2,9 @@
 
 Since 2019 in Advanced Building Design we haev run the same project on the same site. When we started doing this a real project on the site was still in design for the site, it is now built!
 
-In that time in the course 59 different interdisiplinary projects have been produced by our students.
+In that time in the course, 59 different interdisiplinary projects have been produced by our students.
 
-In this page we give some overview of the 
+In this page we give some overview of the different years, including the subjects the students could choose from and the iniatives we started or stopped that year.
 
 ### 2019 - 12 Buildings
 This first year was run during a lockdown. It had architecture, Structure, MEP, Geotechnical, Fire and PM/ICT subject. Students formed groups. It ran from the AgileX website.
