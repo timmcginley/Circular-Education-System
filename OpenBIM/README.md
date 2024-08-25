@@ -27,6 +27,7 @@ The following is a list of tools that have been developed so far in the Advanced
   
 * [23 G10](https://github.com/Ma-th1ago/41934-Advanced-BIM/tree/main/Assignment%203) - Structural
 * [23 G15](https://github.com/frejahbarkler/41934_GR15_A3/tree/main) - Calculate self weight
+* [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/tree/main/A3) - Structures
 
 ### Materials / Sustainability / LCA
 * [22 G03](https://github.com/WilliamEskildsen/41934_group3) - LCA
