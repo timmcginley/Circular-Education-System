@@ -14,3 +14,4 @@ These result in a repository of reusable building designs and tools.
 - [Tools]
 
 [Buildings]: /Circular-Education-System/Buildings/
+[Tools]: /Circular-Education-System/Tools/
