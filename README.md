@@ -1,8 +1,3 @@
----
-title: My First Page
-layout: default
----
-
 # Circular Education System
 Circular Education System @ DTU Construct.
 
