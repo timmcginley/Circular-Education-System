@@ -1,5 +1,5 @@
 - name: Stuff
-  link: /Stuff
+  link: /
   dropdown: 
     - name: Building Designs
       link: /Buildings
@@ -8,7 +8,7 @@
     - name: OpenBIM Tools
       link: /OpenBIM
 - name: Research
-  link: /Research
+  link: /
   dropdown: 
     - name: A Circular Education System
       link: https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC
