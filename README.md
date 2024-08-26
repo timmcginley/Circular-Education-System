@@ -1,6 +1,6 @@
 ---
 title: My First Page
-layout: boilerPlate
+layout: BoilerPlate
 ---
 
 # Circular Education System
