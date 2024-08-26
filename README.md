@@ -10,10 +10,10 @@ Courses Includes:
 
 These result in a repository of reusable building designs, systems and tools.
 
-- [Buildings]
-- [Building Systems]
+- [Building Designs]
+- [Agile Building Systems]
 - [OpenBIM Tools]
 
-[Buildings]: /Circular-Education-System/Buildings/
+[Building Designs]: /Circular-Education-System/Buildings/
 [OpenBIM Tools]: /Circular-Education-System/OpenBIM/
-[Building Systems]: /Circular-Education-System/BuildingSystems/
+[Agile Building Systems]: /Circular-Education-System/BuildingSystems/
