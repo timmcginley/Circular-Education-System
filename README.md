@@ -8,7 +8,7 @@ Courses Includes:
 - [Advanced Building Information Modelling](https://github.com/timmcginley/41934)
 - [Agile Prototyping](https://github.com/timmcginley/Agile-Prototyping)
 
-These result in a repository of reusable building designs and tools.
+These result in a repository of reusable building designs, systems and tools.
 
 - [Buildings]
 - [Building Systems]
