@@ -1,7 +1,3 @@
----
-title: Circular Education System
----
-
 # Circular Education System
 Circular Education System @ DTU Construct.
 
@@ -21,3 +17,8 @@ These result in a repository of reusable building designs, systems and tools.
 [Building Designs]: /Circular-Education-System/Buildings/
 [OpenBIM Tools]: /Circular-Education-System/OpenBIM/
 [Agile Building Systems]: /Circular-Education-System/BuildingSystems/
+
+---
+title: Circular Education System
+---
+
