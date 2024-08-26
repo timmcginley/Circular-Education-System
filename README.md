@@ -11,6 +11,7 @@ Courses Includes:
 These result in a repository of reusable building designs and tools.
 
 - [Buildings]
+- [Building Systems]
 - [OpenBIM Tools]
 
 [Buildings]: /Circular-Education-System/Buildings/
