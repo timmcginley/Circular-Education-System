@@ -14,3 +14,4 @@ The Agile Prototyping experiments at DTU since 2018, have focused on decoupling 
 * Project Management
 
 Early promising experiments were conducted in Speckle V1. These need to be updated to work with Speckle V2.
+This year in Agile Prototyping building systems will be developed that have developmental stages, thereby expanding the design space and facilitating design integration.
