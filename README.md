@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: boilerPlate
+---
+
 # Circular Education System
 Circular Education System @ DTU Construct.
 
