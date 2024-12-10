@@ -5,12 +5,13 @@ A main idea of the circular education system, is to support the development of a
 The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021.
 
 ### Architecture / Fire
-
+* [24 Group 1](https://github.com/Navairax/Group1/tree/main/A3) - Ceiling analysis
+* 
 
 
 ### Acoustics
 * [22 Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
-* [24 Group 11](https://github.com/OndrejOravec/BIMmanager_g_11) - Reverb
+* [24 Group 11](https://github.com/OndrejOravec/BIMmanager_g_11/tree/main/A3) - Reverb
 
 ### Indoor, energy and daylight
 
@@ -38,6 +39,8 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G14](https://github.com/s203726/A3-A5_AdvancedBIM_group14) - Add Materials and layers to wall types in IFC4
 * [23 G19](https://github.com/nannadl/Avanced-BIM_Group-19/tree/main/Assignment%203_Group%2019) - Add trees to an IFC to support daylight analysis
 * [23 G26](https://github.com/Ahmetondertektas/AdvancedBIM-Group26) - LCA
+* [24 G4](https://github.com/rominabarouti/BIMmanager_g_04/tree/main/A3) - CO2
+
 
 ### Cost
 * [22 G01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
