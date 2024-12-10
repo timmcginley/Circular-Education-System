@@ -18,7 +18,13 @@ We wrote about this year in [McGinley & Karlshøj (2022)](https://www.researchga
 This year included a materials subject for the first time. Also it included 2 weeks of model building at the start of the course, to support the team to develop an interdisciplinary understanding of the challenges of the project. This was the first year that got a summary poster. Also it was the first year that we used the CO2 e / m2 / permanant desk, to get a comparable idea of the sustainability of the building. This was also the first year that we had a drawing pin up session in week 7. Introduced the DGNB-Lite schema to support sustainability assessment in the course. We wrote about this version in [McGinley et. al. (2023)](https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition) and [McGinley & Krijnen (2023)](https://www.researchgate.net/publication/369107975_A_framework_for_meta-disciplinary_building_analysis).
 ### 2024 - 12 Buildings
 This year did not include a geotechnical or material subject. The fire subject (evacuation) was incorporated into Architecture. This year got a summary poster. It was the first year it was a mandatory course for civil engineering MSc which resulted in large number of students who wanted to take the structures subject. Effort to consolidate project information into DTU Learn.
+
+[https://github.com/timmcginley/41936]()
+
 ### 2025 - ?
+
+Switched the github site from Jekyll to [Sphinx documentation](https://timmcginley.github.io/41936/).
+
 Add mentors. Add acoustics to Architecture. Reinstate Geotechnical subject. Course information needs to be cleaned up and a new course website is needed.
 
 total - 59 buildings
