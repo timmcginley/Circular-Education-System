@@ -4,13 +4,13 @@ A main idea of the circular education system, is to support the development of a
 
 The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021.
 
-### Architecture
+### Architecture / Fire
 
 
-### Fire
 
 ### Acoustics
 * [22 Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
+* [24 Group 11](https://github.com/user-attachments/assets/e79449b6-1749-4448-8ce6-0bed06e13fa8) - Reverb
 
 ### Indoor, energy and daylight
 
