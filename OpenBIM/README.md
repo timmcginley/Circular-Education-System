@@ -10,7 +10,7 @@ The following is a list of tools that have been developed so far in the Advanced
 
 ### Acoustics
 * [22 Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
-* [24 Group 11](https://github.com/user-attachments/assets/e79449b6-1749-4448-8ce6-0bed06e13fa8) - Reverb
+* [24 Group 11](https://github.com/OndrejOravec/BIMmanager_g_11) - Reverb
 
 ### Indoor, energy and daylight
 
