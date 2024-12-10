@@ -2,7 +2,7 @@
 
 A main idea of the circular education system, is to support the development of an emerging Open BIM Open Source Ecosystem of BIM tools. Teaching the Advanced BIM Course makes it quickly obvious that the current set of proprietary tools do not provide value for money or support innovation, but only the vested interests the software companies.
 
-The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021. This will be the fourth year we run at in this way.
+The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021.
 
 ### Architecture
 
