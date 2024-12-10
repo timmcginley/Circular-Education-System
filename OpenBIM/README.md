@@ -9,7 +9,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [24 G08](https://github.com/Ajad2024/Group8.git) - Number of doors
 * [24 G09](https://github.com/Noahnox/Group9/tree/main/A3) - Staircase check
 
-### Acoustics
+## Acoustics
 * [22 G12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
 * [24 G11](https://github.com/OndrejOravec/BIMmanager_g_11/tree/main/A3) - Reverb
 
@@ -30,6 +30,16 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G10](https://github.com/Ma-th1ago/41934-Advanced-BIM/tree/main/Assignment%203) - Structural
 * [23 G15](https://github.com/frejahbarkler/41934_GR15_A3/tree/main) - Calculate self weight
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/tree/main/A3) - Structures
+* [24 G22](https://github.com/ioschkagautier/BIManalyst_g_22/tree/main/A3) - Columns (Type and #/flr)
+* [24 G23](https://github.com/JanikRosien/BIManalyst_g_23/tree/main/A3) - Walls - hgt, thk, mat
+* [24 G24](https://github.com/Dupont2001/BIManalyst_g_24/tree/main/A3) - Slabs - Self weight
+* [24 G25](https://github.com/s203910/BIManalyst_g_25/tree/main/A3) - Beams - Cross section / E Module
+* [24 G26](https://github.com/OliverBIM/BIManalyst_g_26/tree/main/A3) - Beams - Span
+* [24 G27](
+
+
+
+
 
 ## Materials / Sustainability / LCA
 * [22 G03](https://github.com/WilliamEskildsen/41934_group3) - LCA
@@ -50,5 +60,6 @@ The following is a list of tools that have been developed so far in the Advanced
 
 ## Management
 * [23 G05](https://github.com/StanimirMihaylovAngelov/Advanced_BIM/blob/main/A3/README.md) - BIM Execution Plan
-
+* [24 G21](https://github.com/s194891/BIMmanager_gr_21/tree/main/A3) - Manager role in BIM course.
+* 
 
