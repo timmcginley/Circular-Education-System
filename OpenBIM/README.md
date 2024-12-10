@@ -6,8 +6,8 @@ The following is a list of tools that have been developed so far in the Advanced
 
 ### Architecture / Fire
 * [24 Group 1](https://github.com/Navairax/Group1/tree/main/A3) - Ceiling analysis
-* 
-
+* [24 Group 8](https://github.com/Ajad2024/Group8.git) - Number of doors
+* [342409](https://github.com/Noahnox/Group9/tree/main/A3) - Staircase check
 
 ### Acoustics
 * [22 Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
@@ -19,6 +19,8 @@ The following is a list of tools that have been developed so far in the Advanced
 * [22 G18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
 * [22 G22](https://github.com/s183578/41934-Advanced-BIM-Group-22) - Indoor Climate
 * [22 G23](https://github.com/Enzuesta/41934-Advanced-BIM-Group23) - Daylight
+* [24 G14](https://github.com/Mathu21DTU/BIManalyst_g_14/blob/Bim_assigment_2/A3)- AHUs, ducts and pipes
+* [24 G15](https://github.com/ZKA1104/BIManalyst_g_15/blob/main/A3) - Windows U value
 
 ### Structures
 * [22 G09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
