@@ -4,7 +4,7 @@ A main idea of the circular education system, is to support the development of a
 
 The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021.
 
-### Architecture / Fire
+## Architecture / Fire
 * [24 G01](https://github.com/Navairax/Group1/tree/main/A3) - Ceiling analysis
 * [24 G08](https://github.com/Ajad2024/Group8.git) - Number of doors
 * [24 G09](https://github.com/Noahnox/Group9/tree/main/A3) - Staircase check
@@ -13,7 +13,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [22 G12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
 * [24 G11](https://github.com/OndrejOravec/BIMmanager_g_11/tree/main/A3) - Reverb
 
-### Indoor, energy and daylight
+## Indoor, energy and daylight
 
 * [22 G06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
 * [22 G18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
@@ -22,7 +22,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [24 G14](https://github.com/Mathu21DTU/BIManalyst_g_14/blob/Bim_assigment_2/A3)- AHUs, ducts and pipes
 * [24 G15](https://github.com/ZKA1104/BIManalyst_g_15/blob/main/A3) - Windows U value
 
-### Structures
+## Structures
 * [22 G09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
 * [22 G10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
 * [22 G20](https://github.com/Hajarb11/BIM--Group20) - Structural
@@ -31,7 +31,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G15](https://github.com/frejahbarkler/41934_GR15_A3/tree/main) - Calculate self weight
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/tree/main/A3) - Structures
 
-### Materials / Sustainability / LCA
+## Materials / Sustainability / LCA
 * [22 G03](https://github.com/WilliamEskildsen/41934_group3) - LCA
 * [22 G04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
 * [23 G03](https://github.com/KateGayler/A3) - Improving IEQ
@@ -41,7 +41,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G26](https://github.com/Ahmetondertektas/AdvancedBIM-Group26) - LCA
 * [24 G4](https://github.com/rominabarouti/BIMmanager_g_04/tree/main/A3) - CO2
 
-### Cost
+## Cost
 * [22 G01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
 * [22 G02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
 * [22 G11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
