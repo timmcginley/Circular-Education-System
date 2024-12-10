@@ -27,7 +27,6 @@ The following is a list of tools that have been developed so far in the Advanced
 * [22 G10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
 * [22 G20](https://github.com/Hajarb11/BIM--Group20) - Structural
 * [22 G21](https://github.com/loicsan272/Advenced-BIM2022-G21) - Structural
-  
 * [23 G10](https://github.com/Ma-th1ago/41934-Advanced-BIM/tree/main/Assignment%203) - Structural
 * [23 G15](https://github.com/frejahbarkler/41934_GR15_A3/tree/main) - Calculate self weight
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/tree/main/A3) - Structures
@@ -35,7 +34,6 @@ The following is a list of tools that have been developed so far in the Advanced
 ### Materials / Sustainability / LCA
 * [22 G03](https://github.com/WilliamEskildsen/41934_group3) - LCA
 * [22 G04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
-  
 * [23 G03](https://github.com/KateGayler/A3) - Improving IEQ
 * [23 G08](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-) -LCA
 * [23 G14](https://github.com/s203726/A3-A5_AdvancedBIM_group14) - Add Materials and layers to wall types in IFC4
@@ -43,13 +41,11 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G26](https://github.com/Ahmetondertektas/AdvancedBIM-Group26) - LCA
 * [24 G4](https://github.com/rominabarouti/BIMmanager_g_04/tree/main/A3) - CO2
 
-
 ### Cost
 * [22 G01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
 * [22 G02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
 * [22 G11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
 * [22 G19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
-
 * [23 G11](https://github.com/kristianedstrom/Group-11/blob/main/Assignments/A3/Remodel.py) - cost
 
 ## Management
