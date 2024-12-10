@@ -5,13 +5,13 @@ A main idea of the circular education system, is to support the development of a
 The following is a list of tools that have been developed so far in the Advanced Building information Modelling Course since it switched to a focus on IfcOpenshell and Python in 2021.
 
 ### Architecture / Fire
-* [24 Group 1](https://github.com/Navairax/Group1/tree/main/A3) - Ceiling analysis
-* [24 Group 8](https://github.com/Ajad2024/Group8.git) - Number of doors
-* [342409](https://github.com/Noahnox/Group9/tree/main/A3) - Staircase check
+* [24 G01](https://github.com/Navairax/Group1/tree/main/A3) - Ceiling analysis
+* [24 G08](https://github.com/Ajad2024/Group8.git) - Number of doors
+* [24 G09](https://github.com/Noahnox/Group9/tree/main/A3) - Staircase check
 
 ### Acoustics
-* [22 Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
-* [24 Group 11](https://github.com/OndrejOravec/BIMmanager_g_11/tree/main/A3) - Reverb
+* [22 G12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
+* [24 G11](https://github.com/OndrejOravec/BIMmanager_g_11/tree/main/A3) - Reverb
 
 ### Indoor, energy and daylight
 
