@@ -19,7 +19,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [22 G18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
 * [22 G22](https://github.com/s183578/41934-Advanced-BIM-Group-22) - Indoor Climate
 * [22 G23](https://github.com/Enzuesta/41934-Advanced-BIM-Group23) - Daylight
-* [24 G14](https://github.com/Mathu21DTU/BIManalyst_g_14/blob/Bim_assigment_2/A3)- AHUs, ducts and pipes
+* [24 G14](https://github.com/Mathu21DTU/BIManalyst_g_14/blob/Bim_assigment_2/A3) - AHUs, ducts and pipes
 * [24 G15](https://github.com/ZKA1104/BIManalyst_g_15/blob/main/A3) - Windows U value
 
 ## Structures
