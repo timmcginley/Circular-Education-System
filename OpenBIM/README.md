@@ -49,7 +49,7 @@ The following is a list of tools that have been developed so far in the Advanced
 * [23 G14](https://github.com/s203726/A3-A5_AdvancedBIM_group14) - Add Materials and layers to wall types in IFC4
 * [23 G19](https://github.com/nannadl/Avanced-BIM_Group-19/tree/main/Assignment%203_Group%2019) - Add trees to an IFC to support daylight analysis
 * [23 G26](https://github.com/Ahmetondertektas/AdvancedBIM-Group26) - LCA
-* [24 G4](https://github.com/rominabarouti/BIMmanager_g_04/tree/main/A3) - CO2
+* [24 G04](https://github.com/rominabarouti/BIMmanager_g_04/tree/main/A3) - CO2
 
 ## Cost
 * [22 G01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
