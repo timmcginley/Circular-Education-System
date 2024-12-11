@@ -9,7 +9,13 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
 
 ## 2019
 * Produced 12 buildings
-* This was the 10th year the course had run including: architecture, Structure, MEP, Geotechnical, Fire and PM/ICT subjects.
+* This was the 10th year the course had run including:
+ * Architecture
+ * Structure
+ * MEP
+ * Geotechnical
+ * Fire
+ * PM/ICT subjects.
 * Run during a lockdown
 * Students formed groups
 * The last year that we ran in the autumn.
