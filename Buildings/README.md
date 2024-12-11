@@ -6,7 +6,7 @@ Since 2019 in Advanced Building Design we have run the same project on the same 
 [https://www.dtu.dk/english/calendar-archive/2024/11/opening-of-building-313]()
 
 
-In that time in our course, 59 different interdisiplinary projects have been produced by our students. This page gives some overview of the different years, including the subjects the students could choose from and the iniatives we started or stopped that year.
+In that time in our course, 59 different interdisiplinary projects (updated 2024) have been produced by our students. This page gives some overview of the different years, including the subjects the students could choose from and the iniatives we started or stopped that year.
 
 ## 2019
 * Produced 12 buildings
@@ -27,7 +27,7 @@ In that time in our course, 59 different interdisiplinary projects have been pro
 
 ## 2021
 * Produced 11 buildings
-* Introduced the Beats.
+* Introduced the Beats to help the high level monitoring of the projects.
 * Documented in [McGinley & Krijnen (2021)](https://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM)
 
 ## 2022
@@ -52,18 +52,22 @@ In that time in our course, 59 different interdisiplinary projects have been pro
 * Effort to put the course information information into [Github](https://github.com/timmcginley/41936).
 * Effort to consolidate project information into DTU Learn.
 * Applied for funding to develop an Advanced Building Design Lab.
+* Define equally divided assessment weight on:
+  * integration (all information the same)
+  * project (do what the client wants)
+  * subject (do waht the subject teacher wants)
   
 ## 2025 - ?
 * Produced x buildings
 * Reduced height from 100 to 27 meters to align wiht local plan and a new focus on renovation.
-* Input to Breif from DTU Campus Service
+* Gained input to project breif from DTU Campus Service
 * Extended the physical modelling exercise to focus on interdisciplinary design in stage A.
 * Reintroduced the Geotech and Materails subjects
+* Reframed 'teachers' as 'cheif consultants
+* Required subject groups to simulate the formation and management of the finances for their own consultancy.
+* Aligned course requirements and stages to DGNB 2025
 * Reduced the number of lectures to give more collaboration team
 * Introduced buddy groups
 * Switched the github site from Jekyll to [Sphinx documentation](https://timmcginley.github.io/41936/).
 * Add mentors
-
-Add mentors. Add acoustics to Architecture. Reinstate Geotechnical subject. Course information needs to be cleaned up and a new course website is needed.
-
-total - 59 buildings
+* Add acoustics to Architecture
