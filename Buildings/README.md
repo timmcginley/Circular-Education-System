@@ -58,7 +58,8 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
   
 ## 2025 - ?
 * Produced x buildings
-* Reduced height from 100 to 27 meters to align wiht local plan and a new focus on renovation.
+* Reduced height from 100 to 27 meters to align wiht local plan
+* A new focus on renovation.
 * Gained input to project breif from DTU Campus Service
 * Extended the physical modelling exercise to focus on interdisciplinary design in stage A.
 * Reintroduced the Geotech and Materails subjects
