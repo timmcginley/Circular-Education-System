@@ -14,6 +14,7 @@ In that time in our course, 59 different interdisiplinary projects have been pro
 * Students formed groups
 * The last year that we ran in the autumn.
 * It ran from the AgileX website [(no longer live but can find the repository here)](https://github.com/timmcginley/F21)
+
 ![image](https://github.com/user-attachments/assets/dfe52634-e446-4bb1-acb0-9d663d2a81a9)
 
 ### 2020 - 6 Buildings
