@@ -5,7 +5,7 @@ Since 2019 in Advanced Building Design we have run the same project on the same 
 [https://www.dtu.dk/english/calendar-archive/2024/11/opening-of-building-313]()
 
 
-In that time in our course, 59 different interdisiplinary projects (updated 2024) have been produced by our students. This page gives some overview of the different years, including the subjects the students could choose from and the iniatives for each year.
+In that time in our course, 59 different interdisiplinary projects (updated 2024) have been produced by our students. This page gives an overview of the recent development of the course.
 
 ## 2019
 * Produced 12 buildings
