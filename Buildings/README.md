@@ -2,7 +2,6 @@
 
 Since 2019 in Advanced Building Design we have run the same project on the same site. When we started doing this a real project on the site was still in design for the site, it is now built!
 
-![image](https://github.com/user-attachments/assets/085487dc-710c-41f4-963b-3a45ec39e513)
 [https://www.dtu.dk/english/calendar-archive/2024/11/opening-of-building-313]()
 
 
