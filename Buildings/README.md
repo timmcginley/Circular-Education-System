@@ -28,11 +28,11 @@ In that time in our course, 59 different interdisiplinary projects have been pro
 ## 2021
 * Produced 11 buildings
 * Introduced the Beats.
-* It is documented in [McGinley & Krijnen (2021)](https://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM)
+* Documented in [McGinley & Krijnen (2021)](https://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM)
 
 ## 2022
 * Produced 9 buildings
-* documented in [McGinley & Karlshøj (2022)](https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC)
+* Documented in [McGinley & Karlshøj (2022)](https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC)
 
 ## 2023
 * Produced 9 buildings
@@ -42,6 +42,7 @@ In that time in our course, 59 different interdisiplinary projects have been pro
 * Added the CO2 e / m2 / permanant desk, to get a comparable idea of the sustainability of the building.y
 * Added a drawing pin up session in week 7.
 * Added the DGNB-Lite schema to support sustainability assessment in the course. We wrote about this version in [McGinley et. al. (2023)](https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition) and [McGinley & Krijnen (2023)](https://www.researchgate.net/publication/369107975_A_framework_for_meta-disciplinary_building_analysis).
+
 ## 2024 - 12 Buildings
 * Produced 12 buildings
 * Did not include a geotechnical or material subject (only for this year).
