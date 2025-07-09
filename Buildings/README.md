@@ -4,6 +4,9 @@ Since 2019 in Advanced Building Design we have run the same project on the same 
 
 [https://www.dtu.dk/english/calendar-archive/2024/11/opening-of-building-313]()
 
+In 2025 we changed the brief so that we could learn from renovation projects rather than just high rise new build.
+
+We haev now done 75 projects (2025).
 
 In that time in our course we have produced:
 | Buildings | Renovation | Total projects |
