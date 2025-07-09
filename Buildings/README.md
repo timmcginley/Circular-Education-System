@@ -5,7 +5,16 @@ Since 2019 in Advanced Building Design we have run the same project on the same 
 [https://www.dtu.dk/english/calendar-archive/2024/11/opening-of-building-313]()
 
 
-In that time in our course, 59 different interdisiplinary projects (updated 2024) have been produced by our students. This page gives an overview of the recent development of the course.
+In that time in our course we have produced:
+| Buildings | Renovation | Total projects |
+|-----------|------------|----------------|
+| 313       |            | 59             |
+| 115       | X          | 6              |
+| 304       |            | 3              |
+| 308       | X          | 7              |
+
+
+* This page gives an overview of each year
 
 ## 2019
 * Produced 12 buildings
@@ -20,6 +29,8 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
 * Students formed groups
 * The last year that we ran in the autumn.
 * It ran from the AgileX website [(no longer live but can find the repository here)](https://github.com/timmcginley/F21)
+* https://github.com/timmcginley/F21/blob/master/reqs/11080/config_2019/RFP.json
+* 
 
 ![image](https://github.com/user-attachments/assets/dfe52634-e446-4bb1-acb0-9d663d2a81a9)
 
@@ -29,6 +40,7 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
 * Also affected by Lockdown
 * 2 students in each subject, it was the first time that we had more than one student in each subject.
 * Received teaching and learning fund from DTU and worked with Thomas Krijnen to develop a rule checking system.
+* https://github.com/timmcginley/F21/blob/master/reqs/11080/config_2020/RFP.json
 
 ## 2021
 * Produced 11 buildings
@@ -48,7 +60,7 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
 * Added a drawing pin up session in week 7.
 * Added the DGNB-Lite schema to support sustainability assessment in the course. We wrote about this version in [McGinley et. al. (2023)](https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition) and [McGinley & Krijnen (2023)](https://www.researchgate.net/publication/369107975_A_framework_for_meta-disciplinary_building_analysis).
 
-## 2024 - 12 Buildings
+## 2024
 * Produced 12 buildings
 * Did not include a geotechnical or material subject (only for this year).
 * Incorporated the fire subject (evacuation) into Architecture.
@@ -62,18 +74,20 @@ In that time in our course, 59 different interdisiplinary projects (updated 2024
   * project (do what the client wants)
   * subject (do waht the subject teacher wants)
   
-## 2025 - ?
-* Produced x buildings
-* Reduced height from 100 to 27 meters to align wiht local plan
+## 2025
+* Produced 16 buildings
+* Reduced height from 100 to 27 meters to align with local plan
 * A new focus on renovation.
-* Gained input to project breif from DTU Campus Service
+* Gained input to project brief from DTU Campus Service
 * Extended the physical modelling exercise to focus on interdisciplinary design in stage A.
-* Reintroduced the Geotech and Materails subjects
-* Reframed 'teachers' as 'cheif consultants
+* Reintroduced the Geotech and Materials subjects
+* Reframed 'teachers' as 'chief consultants'
 * Required subject groups to simulate the formation and management of the finances for their own consultancy.
-* Aligned course requirements and stages to DGNB 2025
 * Reduced the number of lectures to give more collaboration team
-* Introduced buddy groups
 * Switched the github site from Jekyll to [Sphinx documentation](https://timmcginley.github.io/41936/).
+
+## 2026
+* Aligned course requirements and stages to DGNB 2025
+* Introduced buddy groups
 * Add mentors
 * Add acoustics to Architecture
